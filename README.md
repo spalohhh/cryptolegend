@@ -1,0 +1,2 @@
+# cryptolegend
+script token
